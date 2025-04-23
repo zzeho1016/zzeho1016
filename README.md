@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Jaeho Shin
 
-<!--
-**zzeho1016/zzeho1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer aspirant | Python & Linux enthusiast | Building Infra with IaC 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Cloud**: AWS (Studying Practitioner), Azure (Studying)
+- **Container & Orchestration**: Docker, Kubernetes
+- **IaC & DevOps**: Terraform, GitHub Actions, CI/CD
+- **Languages**: Python, JavaScript (basic)
+- **OS & Tools**: Linux, VSCode, Git, Notion
+
+---
+
+### 📝 Currently working on
+- Preparing for **Cloud Engineer** role (by Oct 2025)
+- Learning **Terraform**, **K8s**, and **CI/CD pipelines**
+- Sharing my journey on [Blog](https://yourblog.com) & [GitHub](https://github.com/yourusername)
